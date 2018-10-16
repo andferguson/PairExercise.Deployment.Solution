@@ -20,6 +20,7 @@
     "express": "^4.16.3",
     "faker": "^4.1.0",
     "nodemon": "^1.18.4",
+    "npm-merge-driver": "^2.3.5",
     "pg": "^7.4.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
